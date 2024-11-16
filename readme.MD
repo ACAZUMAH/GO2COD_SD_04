@@ -56,9 +56,9 @@ A command-line password generator built with Node.js and TypeScript. This tool h
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements:
+1. **Fork this repository.**
+2. **Create a new branch for your changes.**
+3. **Submit a pull request with a detailed description of your changes.**
 
-Fork this repository.
-Create a new branch for your changes.
-Submit a pull request with a detailed description of your changes.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+This project is licensed under the MIT License. See the <a href="https://opensource.org/license/MIT">LICENSE</a> file for details.
