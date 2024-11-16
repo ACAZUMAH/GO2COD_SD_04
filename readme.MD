@@ -43,7 +43,7 @@ A command-line password generator built with Node.js and TypeScript. This tool h
 4. **The generated password will be displayed in the terminal.**
 
 ## Sample Menu
-   ``bash
+   ```bash
    1. Upper case password
    2. Lower case password
    3. Number password
